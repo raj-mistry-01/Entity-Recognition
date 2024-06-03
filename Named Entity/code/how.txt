@@ -1,0 +1,15 @@
+Thank you for reading this 
+Clone this repo
+Install the required python packages
+Open your Command Prompt :
+    run command given in cmd.txt(code folder)
+    close cmd
+Open your Command Prompt :
+    Navigate to Named Entity folder
+    run command 'flask --app .\main.py run'
+    it will give a URL click on it.
+
+In src folder I am giving you only one random txt file , 
+you can give any file but which suppouts utf-8 encoding just for this basic nlp model please input text file , 
+if you input other files it will give you entity but in a utf-8 encoding itself so better to give a txt file here.
+Thank you
