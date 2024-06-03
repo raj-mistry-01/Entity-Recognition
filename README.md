@@ -22,3 +22,6 @@ pip install -r requirements
 
 ## Carefully Read how.txt given in code folder : 
 
+ ## 🌐 Credits :
+   ```en_core_web_sm``` NLP Model <br>
+   wizard_of_oz text file (in src folder) is included from - ```https://gutenberg.org```
